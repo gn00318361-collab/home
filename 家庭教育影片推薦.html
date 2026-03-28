@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>家庭教育影片推薦 — 適合低年級家長與學生</title>
+<title>家庭教育 & 性別平等教育 影片推薦</title>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700;900&display=swap');
 
@@ -259,6 +259,51 @@
   }
   .channel-card a:hover { color: #1a4a1b; }
 
+  /* ===== SECTION DIVIDER ===== */
+  .section-divider {
+    text-align: center;
+    padding: 50px 0 10px;
+  }
+  .section-divider .divider-line {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  .section-divider .divider-line::before,
+  .section-divider .divider-line::after {
+    content: '';
+    flex: 1;
+    height: 2px;
+    background: linear-gradient(to right, transparent, #c084fc, transparent);
+  }
+  .section-divider .divider-label {
+    background: linear-gradient(135deg, #7c3aed, #a855f7);
+    color: #fff;
+    padding: 8px 24px;
+    border-radius: 24px;
+    font-size: 1em;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  /* ===== GENDER EQUALITY SECTION ===== */
+  .gender-section .section-title .icon {
+    background: #7c3aed;
+  }
+  .gender-section .section-title {
+    color: #7c3aed;
+  }
+  .gender-section .video-card .discussion {
+    border-left-color: #a855f7;
+    background: #faf5ff;
+  }
+  .gender-section .video-card .discussion h4 {
+    color: #7c3aed;
+  }
+  .badge-gender { background: #f3e8ff; color: #7c3aed; }
+
   /* ===== TIPS ===== */
   .tips-box {
     background: linear-gradient(135deg, #e8f0d8, #f0f7e8);
@@ -360,13 +405,14 @@
 
 <!-- HERO -->
 <div class="hero">
-  <h1>家庭教育影片推薦</h1>
-  <p>適合低年級家長與學生一起觀看的優質短片</p>
+  <h1>家庭教育 & 性別平等教育<br>影片推薦</h1>
+  <p>適合國小家長與學生一起觀看的優質短片</p>
   <div class="tags">
     <span class="tag">片長 3-8 分鐘</span>
     <span class="tag">附討論引導</span>
     <span class="tag">親子共學</span>
-    <span class="tag">免費觀看</span>
+    <span class="tag">低年級 家庭教育</span>
+    <span class="tag">高年級 性別平等</span>
   </div>
 </div>
 
@@ -526,6 +572,142 @@
     </div>
   </div>
 
+  <!-- ===== DIVIDER: 性別平等教育 ===== -->
+  <div class="section-divider">
+    <div class="divider-line">
+      <span class="divider-label">高年級 — 性別平等教育</span>
+    </div>
+  </div>
+
+  <!-- SECTION: Gender Equality Videos -->
+  <div class="section gender-section">
+    <h2 class="section-title"><span class="icon">♀</span> 性別平等教育影片</h2>
+    <p class="section-desc">以下影片適合高年級（五、六年級）學生與家長一起觀看，主題涵蓋性別刻板印象、身體自主權、尊重與平等。</p>
+
+    <!-- Gender Video 1: #LikeAGirl -->
+    <div class="video-card">
+      <div class="video-embed">
+        <iframe src="https://www.youtube.com/embed/XjJQBjWYDTs?rel=0" allowfullscreen loading="lazy"
+                title="Always #LikeAGirl"></iframe>
+      </div>
+      <div class="video-info">
+        <h3>Always #LikeAGirl（像女孩一樣）</h3>
+        <div class="video-meta">
+          <span class="badge badge-duration">約 3 分鐘</span>
+          <span class="badge badge-gender">性別刻板印象</span>
+          <span class="badge badge-award">YouTube 超過 7000 萬次觀看</span>
+        </div>
+        <p>當被要求「像女孩一樣跑步」時，青少年和成人做出嘲笑式的動作；但年幼的女孩卻全力以赴地奔跑。這部影片揭示了「像女孩一樣」這句話如何從讚美變成了侮辱，引發全球對性別刻板印象的反思。</p>
+        <div class="discussion">
+          <h4>討論引導問題</h4>
+          <ol>
+            <li>「像女孩一樣」這句話讓你聯想到什麼？是好的還是不好的？</li>
+            <li>你覺得男生和女生在能力上有什麼不同嗎？為什麼？</li>
+            <li>如果有人用性別來取笑你或同學，你會怎麼做？</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <!-- Gender Video 2: 身體界線 -->
+    <div class="video-card">
+      <div class="video-embed">
+        <iframe src="https://www.youtube.com/embed/zAALZxa6NCw?rel=0" allowfullscreen loading="lazy"
+                title="身體界線教育"></iframe>
+      </div>
+      <div class="video-info">
+        <h3>我是自己身體的主人 — 認識身體界線</h3>
+        <div class="video-meta">
+          <span class="badge badge-duration">約 5 分鐘</span>
+          <span class="badge badge-gender">身體自主權</span>
+          <span class="badge badge-age">高年級適用</span>
+        </div>
+        <p>教導孩子認識「身體界線」的概念：哪些部位是隱私部位、什麼樣的碰觸讓人不舒服、遇到不舒服的情況時該怎麼說「不」並尋求幫助。讓孩子學會保護自己，也尊重他人的身體。</p>
+        <div class="discussion">
+          <h4>討論引導問題</h4>
+          <ol>
+            <li>什麼是「身體界線」？你覺得每個人的界線都一樣嗎？</li>
+            <li>如果有人的碰觸讓你不舒服，你可以怎麼做？</li>
+            <li>我們怎麼尊重別人的身體界線？</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <!-- Gender Video 3: 解迷性騷擾 -->
+    <div class="video-card">
+      <div class="video-embed">
+        <iframe src="https://www.youtube.com/embed/h3nhM9UlJjc?rel=0" allowfullscreen loading="lazy"
+                title="解迷性騷擾"></iframe>
+      </div>
+      <div class="video-info">
+        <h3>解迷性騷擾 — 人不可貌相</h3>
+        <div class="video-meta">
+          <span class="badge badge-duration">約 5 分鐘</span>
+          <span class="badge badge-gender">性騷擾防治</span>
+          <span class="badge badge-age">教育部推薦</span>
+        </div>
+        <p>透過動畫故事破解常見的性騷擾迷思：「穿著暴露才會被騷擾」「只有女生才會被騷擾」「認識的人不會騷擾你」等錯誤觀念。讓高年級學生了解性騷擾的定義，學會保護自己。</p>
+        <div class="discussion">
+          <h4>討論引導問題</h4>
+          <ol>
+            <li>什麼是「性騷擾」？你覺得只有陌生人才會這樣嗎？</li>
+            <li>如果遇到讓你不舒服的言語或行為，你會怎麼處理？</li>
+            <li>我們可以怎麼幫助身邊遇到困擾的同學？</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <!-- Gender Video 4: Equality -->
+    <div class="video-card">
+      <div class="video-embed">
+        <iframe src="https://www.youtube.com/embed/nrZ21nD9I-0?rel=0" allowfullscreen loading="lazy"
+                title="Gender Equality Animated Short"></iframe>
+      </div>
+      <div class="video-info">
+        <h3>行政院性平小學堂 — 職業不分性別</h3>
+        <div class="video-meta">
+          <span class="badge badge-duration">約 3-5 分鐘</span>
+          <span class="badge badge-gender">職業平等</span>
+          <span class="badge badge-age">行政院製作</span>
+        </div>
+        <p>誰說護士一定是女生？誰說工程師一定是男生？透過生活化的故事，讓孩子了解職業不分性別，每個人都有權利追求自己喜歡的工作和夢想，不應該被性別限制。</p>
+        <div class="discussion">
+          <h4>討論引導問題</h4>
+          <ol>
+            <li>你長大想做什麼工作？有沒有人說過「這是男生/女生的工作」？</li>
+            <li>你覺得有沒有什麼工作是只有男生或只有女生才能做的？</li>
+            <li>怎麼樣才是真正的「平等」？</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+
+    <!-- Gender Equality Resources -->
+    <div class="tips-box" style="background: linear-gradient(135deg, #f3e8ff, #faf5ff);">
+      <h3 style="color: #7c3aed;">性別平等教育資源</h3>
+      <div class="tips-grid">
+        <div class="tip-item">
+          <strong style="color: #7c3aed;">教育部性平教育網</strong>
+          <span><a href="https://www.gender.edu.tw" target="_blank" rel="noopener" style="color:#7c3aed;">gender.edu.tw</a><br>校園情感教育及性教育倡議教學影片，有 4 分鐘及 2 分鐘版</span>
+        </div>
+        <div class="tip-item">
+          <strong style="color: #7c3aed;">行政院性別平等會</strong>
+          <span><a href="https://gec.ey.gov.tw" target="_blank" rel="noopener" style="color:#7c3aed;">gec.ey.gov.tw</a><br>性平宣導短片，主題多元</span>
+        </div>
+        <div class="tip-item">
+          <strong style="color: #7c3aed;">新北市性平影片專區</strong>
+          <span>依年級分類的影片清單，含「身體我最大」「解迷性騷擾」等系列</span>
+        </div>
+        <div class="tip-item">
+          <strong style="color: #7c3aed;">AMAZE 性教育動畫</strong>
+          <span><a href="https://amaze.org" target="_blank" rel="noopener" style="color:#7c3aed;">amaze.org</a><br>國際性教育動畫，YouTube 超過 2500 萬次觀看</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <!-- SECTION 3: YouTube Channels -->
   <div class="section">
     <h2 class="section-title"><span class="icon">★</span> 推薦 YouTube 頻道</h2>
@@ -602,7 +784,7 @@
 <!-- FOOTER -->
 <div class="footer">
   <strong>讓我們一起用好影片，拉近親子的距離！</strong><br>
-  家庭教育宣導活動
+  家庭教育 & 性別平等教育宣導活動
 </div>
 
 </body>
