@@ -8,22 +8,22 @@
 
 ### 低年級 — 家庭教育（5 部）
 
-| 影片 | 片長 | 主題 |
-|------|------|------|
-| Alike（相似） | 約 8 分鐘 | 親子關係、創造力 |
-| The Present（禮物） | 約 4 分鐘 | 同理心、接納差異 |
-| Snack Attack（點心攻擊） | 約 4 分鐘 | 換位思考、不隨意批評 |
-| Wings（翅膀） | 約 6 分鐘 | 友誼、善良、夢想 |
-| Father and Daughter（父與女） | 約 8 分鐘 | 親情、愛與思念、生命教育 |
+| 影片 | 片長 | 主題 | YouTube 連結 |
+|------|------|------|-------------|
+| Alike（相似） | 約 8 分鐘 | 親子關係、創造力 | https://www.youtube.com/watch?v=kQjtK32mGJQ |
+| The Present（禮物） | 約 4 分鐘 | 同理心、接納差異 | https://www.youtube.com/watch?v=WjqiU5FgsYc |
+| Snack Attack（點心攻擊） | 約 4 分鐘 | 換位思考、不隨意批評 | https://www.youtube.com/watch?v=38y_1EWIE9I |
+| Wings（翅膀） | 約 6 分鐘 | 友誼、善良、夢想 | https://www.youtube.com/watch?v=d5r0MHjCc_o |
+| Father and Daughter（父與女） | 約 8 分鐘 | 親情、愛與思念、生命教育 | https://www.youtube.com/watch?v=NMCMiPWnMKE |
 
 ### 高年級 — 性別平等教育（4 部）
 
-| 影片 | 片長 | 主題 |
-|------|------|------|
-| #LikeAGirl（像女孩一樣） | 約 3 分鐘 | 性別刻板印象 |
-| 認識身體界線 | 約 5 分鐘 | 身體自主權 |
-| 解迷性騷擾 — 人不可貌相 | 約 5 分鐘 | 性騷擾防治 |
-| 職業不分性別 | 約 3-5 分鐘 | 職業平等 |
+| 影片 | 片長 | 主題 | YouTube 連結 |
+|------|------|------|-------------|
+| #LikeAGirl（像女孩一樣） | 約 3 分鐘 | 性別刻板印象 | https://www.youtube.com/watch?v=XjJQBjWYDTs |
+| 認識身體界線 | 約 5 分鐘 | 身體自主權 | https://www.youtube.com/watch?v=zAALZxa6NCw |
+| 解迷性騷擾 — 人不可貌相 | 約 5 分鐘 | 性騷擾防治 | https://www.youtube.com/watch?v=h3nhM9UlJjc |
+| 職業不分性別 | 約 3-5 分鐘 | 職業平等 | https://www.youtube.com/watch?v=nrZ21nD9I-0 |
 
 ## 使用方式
 
